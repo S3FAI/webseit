@@ -1,0 +1,7 @@
+{
+  "name": "S3FAI",
+  "description": "Find Your Perfect Outfit With AI - Premium Luxury AI Fashion Styling and Wardrobe Platform",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
